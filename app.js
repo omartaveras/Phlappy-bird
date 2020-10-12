@@ -3,3 +3,7 @@ document.addEventListener('DOMContentLoader', ()=>{
     const gameDiplay = document.querySelector('.game-container');
     const ground = docment.querySelector('.ground');
 });
+
+
+//https://www.youtube.com/watch?v=gxHcW84izz0&feature=youtu.be
+//time: 7:00
