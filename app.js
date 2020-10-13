@@ -4,11 +4,13 @@ document.addEventListener('DOMContentLoader', ()=>{
     const ground = docment.querySelector('.ground');
 });
 
-//Function start
+// Function start
 
 // Move up and down
 
 // Game Over
+
+// Server in Npm or what??
 
 //https://www.youtube.com/watch?v=gxHcW84izz0&feature=youtu.be
 //time: 7:00
